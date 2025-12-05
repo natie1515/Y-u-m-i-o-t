@@ -127,13 +127,13 @@ ${readMore}
             mimetype: "image/jpeg",
             jpegThumbnail: Shadow_url
           },
-          title: "𝐌 𝐄 𝐍 𝐔 • 𝐊 𝐀 𝐍 𝐄 𝐊 𝐈",
+          title: "𝐌 𝐄 𝐍 𝐔 •𝐲𝐮𝐦𝐢",
           description: "",
           currencyCode: "USD",
           priceAmount1000: 10000,
           retailerId: "menu"
         },
-        businessOwnerJid: "51919199620@s.whatsapp.net"
+        businessOwnerJid: "559296077349@s.whatsapp.net"
       }
     }
   }
