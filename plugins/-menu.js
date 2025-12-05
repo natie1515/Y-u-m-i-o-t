@@ -5,12 +5,12 @@ let handler = async (m, { conn, command }) => {
 try {
   
 let text = `
-╭━━━〔 🍷 𝐌𝐄𝐍𝐔 𝐊𝐀𝐍𝐄𝐊𝐈 𝐕𝟏𝟖 🍷 〕━━⬣
+╭━━━〔 🍷 𝐌𝐄𝐍𝐔 𝐲𝐮𝐦𝐢 𝐕𝟏𝟖 🍷 〕━━⬣
 │
 │ 🩸 *» 𝘽𝙊𝙏:* ${botname}
 │ 👁 *» 𝙀𝙎𝙏𝘼𝘿𝙊:* 𝙀𝙉 𝙊𝙋𝙀𝙍𝘼𝘾𝙄𝙊́𝙉
 │ ⚙️ *» 𝙑𝙀𝙍𝙎𝙄𝙊́𝙉:* ${vs}
-│ 🕶 *» 𝙏𝙀𝙈𝘼:* 𝐊𝐀𝐍𝐄𝐊𝐈 𝐌𝐎𝐃𝐄
+│ 🕶 *» 𝙏𝙀𝙈𝘼:* ❤️̶۫̄͟Y͟u͟m͟ï̵̬͟͜𝐁o̸t̸❤️̶۫̄͟─ 𝐌𝐎𝐃𝐄
 │
 ╰━━━〔 🔥 𝐒𝐘𝐒𝐓𝐄𝐌 𝐑𝐔𝐍𝐍𝐈𝐍𝐆 🔥 〕━━⬣
 
@@ -23,7 +23,7 @@ await conn.sendMessage(m.chat, {
   viewOnce: true,
 
   document: fs.readFileSync("./package.json"),
-  fileName: `「 ⚡ 𝐌𝐄𝐍𝐔 𝐊𝐀𝐍𝐄𝐊𝐈 ⚡ 」`,
+  fileName: `「 ⚡ 𝐌𝐄𝐍𝐔 𝐲𝐮𝐦𝐢 ⚡ 」`,
   mimetype: 'application/vnd.ms-excel',
   fileLength: 99999999,
   caption: text.trim(),
@@ -36,8 +36,8 @@ await conn.sendMessage(m.chat, {
     isForwarded: true,
     mentionedJid: [m.sender],
     externalAdReply: { 
-      title: `『 💮 𝐊𝐀𝐍𝐄𝐊𝐈 𝐌𝐄𝐍𝐔 𝟏𝟖 🚀 』`,
-      body: `𝘈𝘬𝘢𝘯𝘦 𝘪𝘴 𝘸𝘢𝘵𝘤𝘩𝘪𝘯𝘨 𝘺𝘰𝘶...`,
+      title: `『 💮 𝐌𝐄𝐍𝐔 𝐲𝐮𝐦𝐢 𝐕𝟏𝟖 🚀 』`,
+      body: `𝐲𝐮𝐦𝐢 𝘪𝘴 𝘸𝘢𝘵𝘤𝘩𝘪𝘯𝘨 𝘺𝘰𝘶...`,
       thumbnail: await (await fetch(banner)).buffer(),
       sourceUrl: 'https://vt.tiktok.com/ZSyMm8YQ6/',
       mediaType: 1,
@@ -51,7 +51,7 @@ m.react('🍒')
 
 } catch (e) {
 console.log(e)
-m.reply('⚠️ Error al enviar el menú Kaneki 18.')
+m.reply('⚠️ Error al enviar el 𝐌𝐄𝐍𝐔 𝐲𝐮𝐦𝐢 𝐕𝟏𝟖.')
 }
 }
 
