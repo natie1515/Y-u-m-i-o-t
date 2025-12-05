@@ -31,16 +31,16 @@ global.kanekiAIJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.botname = "ㅤׁ෨ 🌾 𝙆𝙖𝙣𝙚𝙠𝙞𝘽𝙤𝙩-,𝘼𝙄 🌱. り"
-global.textbot = "🌾 кαиєкι вσт ν3 • мα∂є ву sһᥲძ᥆ᥕ.᥊ᥡz"
-global.dev = "© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ׅ  ׄ 몽 ۪sһᥲძ᥆ᥕ.᥊ᥡz おịᰫ"
-global.author = "© mᥲძᥱ ᥕі𝗍һ ᑲᥡ shadow.xz"
-global.etiqueta = "✫ shadow.xyz "
+global.botname = "❤️̶۫̄͟Y͟u͟m͟ï̵̬͟͜𝐁o̸t̸❤️̶۫̄͟─"
+global.textbot = "sմოí, mᥲძᥱ ᥕі𝗍һ ᑲᥡ 𓆩‌۫᷼ ִֶָღ݉͢𝓢𝓪𝓻𝓪𝓱𓆪‌‹࣭݊𓂃ⷪ ִֶָ ᷫ‹ ⷭ.࣭𓆩‌۫᷼Ⴕ۫͜𓆪‌"
+global.dev = "© ⍴᥆ᥕᥱrᥱძ ᑲᥡ 𓆩‌۫᷼ ִֶָღ݉͢𝓢𝓪𝓻𝓪𝓱𓆪‌‹࣭݊𓂃ⷪ ִֶָ ᷫ‹ ⷭ.࣭𓆩‌۫᷼Ⴕ۫͜𓆪‌"
+global.author = "© mᥲძᥱ ᥕі𝗍һ ᑲᥡ 𓆩‌۫᷼ ִֶָღ݉͢𝓢𝓪𝓻𝓪𝓱𓆪‌‹࣭݊𓂃ⷪ ִֶָ ᷫ‹ ⷭ.࣭𓆩‌۫᷼Ⴕ۫͜𓆪‌"
+global.etiqueta = "𓆩‌۫᷼ ִֶָღ݉͢𝓢𝓪𝓻𝓪𝓱𓆪‌‹࣭݊𓂃ⷪ ִֶָ ᷫ‹ ⷭ.࣭𓆩‌۫᷼Ⴕ۫͜𓆪‌ "
 
 global.currency = "¥enes"
-global.banner = "https://raw.githubusercontent.com/AkiraDevX/uploads/main/uploads/1764274989061_832350.jpeg"
-global.icono2 = "https://i.pinimg.com/originals/b3/67/d5/b367d513d861de468305c32c6cd22756.jpg"
-global.logo = "https://files.catbox.moe/9yxzua.jpg"
+global.banner = "https://raw.githubusercontent.com/natie1515/Updaye/main/VID-20251203-WA0446.mp4"
+global.icono2 = "https://files.catbox.moe/2f9pzr.jpg"
+global.logo = "https://files.catbox.moe/2f9pzr.jpg"
 
 global.catalogo = fs.readFileSync('./lib/catalogo.jpg')
 
