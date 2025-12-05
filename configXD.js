@@ -38,7 +38,7 @@ global.author = "© mᥲძᥱ ᥕі𝗍һ ᑲᥡ 𓆩‌۫᷼ ִֶָღ݉͢𝓢
 global.etiqueta = "𓆩‌۫᷼ ִֶָღ݉͢𝓢𝓪𝓻𝓪𝓱𓆪‌‹࣭݊𓂃ⷪ ִֶָ ᷫ‹ ⷭ.࣭𓆩‌۫᷼Ⴕ۫͜𓆪‌ "
 
 global.currency = "¥enes"
-global.banner = "https://raw.githubusercontent.com/natie1515/Updaye/main/VID-20251203-WA0446.mp4"
+global.banner = "https://raw.githubusercontent.com/AkiraDevX/uploads/main/uploads/1764537439905_644417.jpeg"
 global.icono2 = "https://files.catbox.moe/2f9pzr.jpg"
 global.logo = "https://files.catbox.moe/2f9pzr.jpg"
 
