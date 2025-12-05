@@ -7,8 +7,8 @@ const { generateWAMessageFromContent, prepareWAMessageMedia, proto } = pkg
 
 var handler = m => m
 handler.all = async function (m) { 
-global.canalIdM = ["120363422142340004@newsletter", "120363422142340004@newsletter"]
-global.canalNombreM = ["ʚ⃘ɞ 𝑲𝒂𝒏𝒆𝒌𝒊𝑩𝒐𝒕 - 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 🌿𔘐", "𔖸݀݁𔖲𔖲🍁 𝐊𝐚𝐧𝐞𝐊𝐢𝐁𝐨𝐭-𝐕3 - 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 ᯓ 🌿⃞⃝⵿ּ〪֟፝۠🌱֯ᤲ"]
+global.canalIdM = ["120363188537623366@newsletter", "120363188537623366@newsletter"]
+global.canalNombreM = ["❤️̶۫̄͟Ⓨ︎𓏲Y͟u͟m͟i͟𓍲̈͜𝗨̴ᥣ̥𝗍̈rᥲ̄𓊓̵̬𝐁o̸t̸❤️̶۫̄͟─", "❤️̶۫̄͟Ⓨ︎𓏲Y͟u͟m͟i͟𓍲̈͜𝗨̴ᥣ̥𝗍̈rᥲ̄𓊓̵̬𝐁o̸t̸❤️̶۫̄͟─"]
 global.channelRD = await getRandomChannel()
 
 global.d = new Date(new Date + 3600000)
@@ -104,7 +104,7 @@ global.rcanalx = {
       newsletterName: channelRD.name,
     },
     externalAdReply: {
-      title: `🍃 кαиєкι вσт αι 🌳`,
+      title: `🍃 yuki вσт αι 🌳`,
       body: `▤🍒 !𝐀𝐂𝐂𝐄𝐒𝐎 𝐃𝐄𝐍𝐄𝐆𝐀𝐃𝐎¡ 🍁⿻𝅄`,
       mediaUrl: null,
       description: null,
