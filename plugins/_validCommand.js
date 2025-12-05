@@ -58,7 +58,7 @@ ${sugerencias}`
       },*/
       externalAdReply: { 
         title: `・⟡・ 🄺𝐀𝐍𝐄𝐊𝐈 𓈒𓏸 🄰𝐒𝐒𝐈𝐒𝐓𝐄𝐍𝐓 ⿻ﾟ`,
-        body: '₊˚🌱 ₊˚  ᥴrᥱᥲ𝗍ᥱძ ᑲᥡ sʜᴀᴅᴏᴡ.xʏᴢ 🌾𖥻ﾟ',
+        body: '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ 𓆩‌۫᷼ ִֶָღ݉͢𝓢𝓪𝓻𝓪𝓱𓆪‌‹࣭݊𓂃ⷪ ִֶָ ᷫ‹ ⷭ.࣭𓆩‌۫᷼Ⴕ۫͜𓆪‌',
         thumbnailUrl: 'https://raw.githubusercontent.com/AkiraDevX/uploads/main/uploads/1764537439905_644417.jpeg',
         sourceUrl: redes,
         mediaType: 1,
