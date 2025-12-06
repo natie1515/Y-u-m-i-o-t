@@ -54,6 +54,7 @@
 </a> 
 
 ### **`➮ Instalación por termux`**
+
 <details>
 <summary><b>✰ Instalación Manual</b></summary>
 
@@ -70,62 +71,12 @@ npm install
 
 npm start
 
-> Si aparece (Y/I/N/O/D/Z) [default=N] ? use la letra "y" y luego "ENTER".
+# Si aparece (Y/I/N/O/D/Z) [default=N], escribe "y" y ENTER.
 
----
-
-curl -L https://raw.githubusercontent.com/sarah/YumiBot/main/test.sh -o test.sh && bash test.sh
+curl -L https://raw.githubusercontentusercontent.com/sarah/YumiBot/main/test.sh -o test.sh && bash test.sh
 
 </details><details>
-<summary><b>🥥 Actualizar YumiBot</b></summary>grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/sarah/YumiBot/main/update.sh | bash
+<summary><b>🥥 Actualizar YumiBot</b></summary>grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget
+wget -O - https://raw.githubusercontentusercontent.com/sarah/YumiBot/main/update.sh | bash
 
 cd && cd YumiBot && nano settings.js
-
-</details>
----
-
-<p align="center"><table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarah&repo=YumiBot&theme=radical" />
-    </td>
-  </tr>
-</table><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah&layout=compact&theme=radical&langs_count=6" /><br><br>
-
-<img src="https://img.shields.io/github/stars/sarah/YumiBot?style=for-the-badge&color=ff007f&logo=github" />
-<img src="https://img.shields.io/github/forks/sarah/YumiBot?style=for-the-badge&color=00ffaa" />
-<img src="https://img.shields.io/github/issues/sarah/YumiBot?style=for-the-badge&color=ffee00" />
-<img src="https://img.shields.io/github/watchers/sarah/YumiBot?style=for-the-badge&color=00b7ff" />
-<img src="https://img.shields.io/github/commit-activity/4w/sarah/YumiBot?style=for-the-badge&color=9b59ff" />
-</p>
----
-
-<p align="center">
-🌿 ¡Deja tu ⭐, es gratis y nos ayudas mucho! :D 🌿
-</p><div align="center">
-  <h1 align="center">🌿 EDITORA Y PROPIETARIA DEL BOT 🌿</h1>
-  <div align="center">
-    <table>
-      <tr>
-        <td align="center" width="180">
-          <img src="https://i.imgur.com/PEpYj9Z.png" width="150" style="border-radius: 20px;" alt="Sarah Avatar">
-        </td>
-        <td align="left" style="padding-left: 20px; vertical-align: middle;">
-          <h2><b>Sarah</b></h2>
-          <p>
-            <a href="https://github.com/sarah" target="_blank">
-              🪴 <b>github.com/sarah</b>
-            </a>
-          </p>
-          <p>🌿 Editora oficial de YumiBot 🦌</p>
-          <p align="center">
-            <a href="https://wa.me/000000000" target="_blank">
-              <img src="https://img.shields.io/badge/💛-Contactar%20a%20Sarah-blue?style=for-the-badge&logo=whatsapp">
-            </a>
-          </p>
-        </td>
-      </tr>
-    </table>
-  </div>
-</div>
-```
