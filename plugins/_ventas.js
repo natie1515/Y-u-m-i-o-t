@@ -165,6 +165,6 @@ Finalizado el periodo, se retirará automáticamente.`,
 
 handler.help = ['suscripción <enlace> <tiempo>', 'precios']
 handler.tags = ['info']
-handler.command = ['joinfor', 'precios']
+handler.command = /^(joinfor|precios)$/i
 
 export default handler
