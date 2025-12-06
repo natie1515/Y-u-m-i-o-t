@@ -85,9 +85,6 @@ npm start
 
 curl -L https://raw.githubusercontent.com/shadox-xyz/KanekiBot-V3/main/test.sh -o test.sh && bash test.sh
 
-</details><details>
-<summary><b>🥥 Actualizar YumiBot-V3</b></summary>grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/shadox-xyz/KanekiBot-V3/main/update.sh | bash
-
 cd && cd KanekiBot-V3 && nano settings.js
 
 </details>
