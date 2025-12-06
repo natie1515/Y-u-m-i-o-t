@@ -163,8 +163,8 @@ Finalizado el periodo, se retirará automáticamente.`,
   }
 }
 
-handler.help = ['suscripción <enlace> <tiempo>', 'precios']
+handler.help = ['suscripcion <enlace> <tiempo>', 'precios']
 handler.tags = ['info']
-handler.command = /^(joinfor|precios)$/i
+handler.command = ['joinfor', 'precios']
 
 export default handler
