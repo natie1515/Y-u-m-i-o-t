@@ -39,7 +39,7 @@ let thumb = await fetch('https://raw.githubusercontent.com/AkiraDevX/uploads/mai
 
 const fkontak = {
   key: { participant: '0@s.whatsapp.net', remoteJid: 'status@broadcast', id: 'Halo' },
-  message: { locationMessage: { name: '❥ᰰຼ⚡  𝐊𝐀𝐍𝐄𝐊𝐈 - 𝐀𝐈 🌿', jpegThumbnail: Buffer.from(thumb || []) } }
+  message: { locationMessage: { name: '❥ᰰຼ⚡ 𝐘𝐔𝐊𝐈 - 𝐀𝐈  🌿', jpegThumbnail: Buffer.from(thumb || []) } }
 }
 
 function fechaHoraPeru() {
