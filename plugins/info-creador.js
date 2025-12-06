@@ -8,7 +8,7 @@ const handler = async (m, { conn }) => {
   const numCreador = '559296077349'
   const empresa = '𝐲𝐮𝐦𝐢 ʙᴏᴛ ɪɴɪᴄ.'
   const about = '🍒 𝑫𝒆𝒔𝒂𝒓𝒓𝒐𝒍𝒍𝒂𝒅𝒐𝒓 𝒅𝒆 𝑺𝒂𝒓𝒂𝒉-𝑩𝒐𝒕 𝑽3 :D'
-  const correo = 'danivelasco745@gmail.com 
+  const correo = 'danivelasco745@gmail.com' 
   const web = 'https://shadow-xyz.vercel.app/'
   const direccion = 'Tokyo, Japón 🇯🇵'
   const fotoPerfil = 'https://raw.githubusercontent.com/AkiraDevX/uploads/main/uploads/1764513030769_35769.jpeg'
