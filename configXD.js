@@ -37,7 +37,7 @@ global.author = "© mᥲძᥱ ᥕі𝗍һ ᑲᥡ 𓆩‌۫᷼ ִֶָღ݉͢𝓢
 global.etiqueta = "𓆩‌۫᷼ ִֶָღ݉͢𝓢𝓪𝓻𝓪𝓱𓆪‌‹࣭݊𓂃ⷪ ִֶָ ᷫ‹ ⷭ.࣭𓆩‌۫᷼Ⴕ۫͜𓆪‌"
 
 global.currency = "`femboys 🥵`"
-global.banner = "https://raw.githubusercontent.com/AkiraDevX/uploads/main/uploads/1764274989061_832350.jpeg"
+global.banner = "https://raw.githubusercontent.com/AkiraDevX/uploads/main/uploads/1765558675009_50489.jpeg"
 global.icono2 = "https://i.pinimg.com/originals/b3/67/d5/b367d513d861de468305c32c6cd22756.jpg"
 global.logo = "https://files.catbox.moe/9yxzua.jpg"
 
@@ -49,7 +49,7 @@ global.group = "https://chat.whatsapp.com/FvKyGFv5i1s8Dj2XAQ74WT?mode=hqrt1"
 global.community = "https://chat.whatsapp.com/FvKyGFv5i1s8Dj2XAQ74WT?mode=hqrt1"
 global.channel = "https://whatsapp.com/channel/0029VbAc6cS002TEZ4r5261E"
 global.github = "https://github.com/shadox-xyz/KanekiBot-V3"
-global.gmail = "shadowcore.xyz@gmail.com"
+global.gmail = "danivelasco745@gmail.com"
 global.ch = {
 ch1: "120363188537623366@newsletter"
 }
