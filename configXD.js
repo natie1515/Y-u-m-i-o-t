@@ -10,7 +10,7 @@ global.botNumber = ""  //Ejemplo: 51919199620
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-"51919199620",  //  ׄ 몽🎄 ۪sһᥲძ᥆ᥕ.᥊ᥡz 🌿ᰫ
+"559296077349",  //  ׄ 𓆩‌۫᷼ ִֶָღ݉͢𝓢𝓪𝓻𝓪𝓱𓆪‌‹࣭݊𓂃ⷪ ִֶָ ᷫ‹ ⷭ.࣭𓆩‌۫᷼Ⴕ۫͜𓆪‌
 "51936592936",
 "51934053286",
 "573244418299"
@@ -23,18 +23,18 @@ global.prems = ["51919199620"]
 
 global.libreria = "Baileys Multi Device"
 global.vs = "^1.8.2 • Latest"
-global.nameqr = "ᴋᴀɴᴇᴋɪ-ʙᴏᴛ.ᴍᴅ"
+global.nameqr = "Y͟u͟m͟ï̵̬͟͜𝐁o̸t̸"
 global.sessions = "Sessions/Principal"
 global.jadi = "Sessions/SubBot"
 global.kanekiAIJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.botname = "ׁ෨ 🌾 𝙆𝙖𝙣𝙚𝙠𝙞𝘽𝙤𝙩-,𝘼𝙄 🌱. り"
-global.textbot = "₊˚🌱 ₊˚ кαиєкι вσт ν3 • мα∂є ву sһᥲძ᥆ᥕ.᥊ᥡz ✧𖥻ﾟ"
-global.dev = "© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ׅ  ׄ 몽 ۪sһᥲძ᥆ᥕ.᥊ᥡz おịᰫ"
-global.author = "© mᥲძᥱ ᥕі𝗍һ ᑲᥡ shadow.xz"
-global.etiqueta = "✫ shadow.xyz "
+global.botname = "ׁ❤️̶۫̄͟Y͟u͟m͟ï̵̬͟͜𝐁o̸t̸❤️̶۫̄͟─"
+global.textbot = "sմოí, mᥲძᥱ ᥕі𝗍һ ᑲᥡ 𓆩‌۫᷼ ִֶָღ݉͢𝓢𝓪𝓻𝓪𝓱𓆪‌‹࣭݊𓂃ⷪ ִֶָ ᷫ‹ ⷭ.࣭𓆩‌۫᷼Ⴕ۫͜𓆪‌"
+global.dev = "© ⍴᥆ᥕᥱrᥱძ ᑲᥡ 𓆩‌۫᷼ ִֶָღ݉͢𝓢𝓪𝓻𝓪𝓱𓆪‌‹࣭݊𓂃ⷪ ִֶָ ᷫ‹ ⷭ.࣭𓆩‌۫᷼Ⴕ۫͜𓆪‌"
+global.author = "© mᥲძᥱ ᥕі𝗍һ ᑲᥡ 𓆩‌۫᷼ ִֶָღ݉͢𝓢𝓪𝓻𝓪𝓱𓆪‌‹࣭݊𓂃ⷪ ִֶָ ᷫ‹ ⷭ.࣭𓆩‌۫᷼Ⴕ۫͜𓆪‌"
+global.etiqueta = "𓆩‌۫᷼ ִֶָღ݉͢𝓢𝓪𝓻𝓪𝓱𓆪‌‹࣭݊𓂃ⷪ ִֶָ ᷫ‹ ⷭ.࣭𓆩‌۫᷼Ⴕ۫͜𓆪‌"
 
 global.currency = "`femboys 🥵`"
 global.banner = "https://raw.githubusercontent.com/AkiraDevX/uploads/main/uploads/1764274989061_832350.jpeg"
@@ -47,11 +47,11 @@ global.catalogo = fs.readFileSync('./lib/catalogo.jpg')
 
 global.group = "https://chat.whatsapp.com/FvKyGFv5i1s8Dj2XAQ74WT?mode=hqrt1"
 global.community = "https://chat.whatsapp.com/FvKyGFv5i1s8Dj2XAQ74WT?mode=hqrt1"
-global.channel = "https://whatsapp.com/channel/0029VbC34Nt42DchIWA0q11f"
+global.channel = "https://whatsapp.com/channel/0029VbAc6cS002TEZ4r5261E"
 global.github = "https://github.com/shadox-xyz/KanekiBot-V3"
 global.gmail = "shadowcore.xyz@gmail.com"
 global.ch = {
-ch1: "120363422142340004@newsletter"
+ch1: "120363188537623366@newsletter"
 }
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
