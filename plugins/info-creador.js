@@ -4,12 +4,11 @@ import PhoneNumber from 'awesome-phonenumber';
 import fetch from 'node-fetch';
 
 const handler = async (m, { conn }) => {
-  const name = ' sһᥲძ᥆ᥕ.᥊ᥡz • ᥆𝖿𝖿іᥴіᥲᥣ'
-  const numCreador = '51919199620'
-  const empresa = ' » ᴋᴀɴᴇᴋɪ ʙᴏᴛ ɪɴɪᴄ.'
+  const name = ' 𓆩‌۫᷼ ִֶָღ݉͢𝓢𝓪𝓻𝓪𝓱𓆪‌‹࣭݊𓂃ⷪ ִֶָ ᷫ‹ ⷭ.࣭𓆩‌۫᷼Ⴕ۫͜𓆪‌'
+  const numCreador = '559296077349'
+  const empresa = ' » Y͟u͟m͟ï̵̬͟͜𝐁o̸t̸ ʙᴏᴛ ɪɴɪᴄ.'
   const about = '☏ 2024 - 2025 ⎈'
-  const correo = 'shadowcore.xyz@gmail.com'
-  const web = 'https://shadow-xyz.vercel.app/'
+  const correo = 'danivelasco745@gmail.com   const web = 'https://shadow-xyz.vercel.app/'
   const direccion = 'Tokyo, Japón 🇯🇵'
 
   const vcard = `
@@ -49,7 +48,7 @@ END:VCARD`.trim();
             mimetype: "image/jpeg",
             jpegThumbnail: Shadow_url
           },
-          title: "𝗦𝗵𝗮𝗱𝗼𝘄.𝘅𝘆𝘇 🍁",
+          title: "𓆩‌۫᷼ ִֶָღ݉͢𝓢𝓪𝓻𝓪𝓱𓆪‌‹࣭݊𓂃ⷪ ִֶָ ᷫ‹ ⷭ.࣭𓆩‌۫᷼Ⴕ۫͜𓆪‌ 🍁",
           description: ""
         },
         businessOwnerJid: `${numCreador}@s.whatsapp.net`
