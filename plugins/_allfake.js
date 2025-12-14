@@ -7,8 +7,9 @@ const { generateWAMessageFromContent, prepareWAMessageMedia, proto } = pkg
 
 var handler = m => m
 handler.all = async function (m) { 
-global.canalIdM = ["120363422142340004@newsletter", "120363422142340004@newsletter"]
-global.canalNombreM = ["ʚ⃘ɞ 𝑲𝒂𝒏𝒆𝒌𝒊𝑩𝒐𝒕 - 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 🌿𔘐", "𔖸݀݁𔖲𔖲🍁 𝐊𝐚𝐧𝐞𝐊𝐢𝐁𝐨𝐭-𝐕3 - 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 ᯓ 🌿⃞⃝⵿ּ〪֟፝۠🌱֯ᤲ"]
+global.canalIdM = ["120363188537623366@newsletter", "120363188537623366@newsletter"]
+global.canalNombreM = ["ʚ⃘ɞ 𝒀𝒖𝒎𝒊𝑩𝒐𝒕 - 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 🌿𔘐", "𔖸݀݁𔖲𔖲🍁 𝐘𝐮𝐦𝐢𝐁𝐨𝐭-𝐕3 - 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 ᯓ 🌿⃞⃝⵿ּ〪֟፝۠🌱֯ᤲ
+"]
 global.channelRD = await getRandomChannel()
 
 global.d = new Date(new Date + 3600000)
@@ -19,7 +20,7 @@ global.mes = d.toLocaleDateString('es', {month: 'long'})
 global.año = d.toLocaleDateString('es', {year: 'numeric'})
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true})
 
-var canal = 'https://whatsapp.com/channel/0029VbC34Nt42DchIWA0q11f'  
+var canal = 'https://whatsapp.com/channel/0029VbAc6cS002TEZ4r5261E'  
 var comunidad = ''
 var git = 'https://github.com/shadox-xyz'
 var github = 'https://github.com/shadox-xyz/KanekiBot-V3' 
