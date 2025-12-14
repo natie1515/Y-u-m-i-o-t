@@ -8,7 +8,8 @@ const handler = async (m, { conn }) => {
   const numCreador = '559296077349'
   const empresa = ' » Y͟u͟m͟ï̵̬͟͜𝐁o̸t̸ ʙᴏᴛ ɪɴɪᴄ.'
   const about = '☏ 2024 - 2025 ⎈'
-  const correo = 'danivelasco745@gmail.com   const web = 'https://shadow-xyz.vercel.app/'
+  const correo = 'danivelasco745@gmail.com'   
+  const web = 'https://shadow-xyz.vercel.app/'
   const direccion = 'Tokyo, Japón 🇯🇵'
 
   const vcard = `
