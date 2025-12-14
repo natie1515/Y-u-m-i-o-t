@@ -111,8 +111,7 @@ ${readMore}
             mimetype: "image/jpeg",
             jpegThumbnail: Shadow_url
           },
-          title: "𝐌 𝐄 𝐍 𝐔 • 𝐘 𝐔 𝐌 𝐈
-",
+          title: "𝐌 𝐄 𝐍 𝐔 • 𝐘 𝐔 𝐌 𝐈",
           description: "",
           currencyCode: "USD",
           priceAmount1000: 10000,
