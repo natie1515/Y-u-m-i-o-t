@@ -1,5 +1,5 @@
 process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = '1'
-import './configXD.js'
+import './settings.js'
 import './plugins/_allfake.js'
 import cfonts from 'cfonts'
 import { createRequire } from 'module'
@@ -32,13 +32,13 @@ const { chain } = lodash
 const PORT = process.env.PORT || process.env.SERVER_PORT || 3000
 
 let { say } = cfonts
-console.log(chalk.magentaBright('\n🍒 I N I C I A N D O...'))
-cfonts.say('KANEKI - AI', {
-font: 'block',
-align: 'center',
-gradient: ['white', 'green']
+console.log(chalk.magentaBright('\n❀ Iniciando...'))
+say('KANEKI MD', {
+font: 'simple',
+align: 'left',
+gradient: ['green', 'white']
 })
-say('˙˚ʚ₍ ᐢ. ̫ .ᐢ ₎ɞ˚ ᴍᴀᴅᴇ ᴡɪᴛʜ ʟᴏᴠᴇ ʙʏ sʜᴀᴅᴏᴡ.xʏᴢ 🌿', {
+say('Made with love by shadow.xyz', {
 font: 'console',
 align: 'center',
 colors: ['cyan', 'magenta', 'yellow']
@@ -361,3 +361,4 @@ for (const value of Object.values(global.ch)) {
 if (typeof value === 'string' && value.endsWith('@newsletter')) {
 await sock.newsletterFollow(value).catch(() => {})
 }}}
+
