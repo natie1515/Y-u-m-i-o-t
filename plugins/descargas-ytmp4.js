@@ -1,4 +1,4 @@
-/*import yts from "yt-search"
+import yts from "yt-search"
 import fetch from "node-fetch"
 
 function convertirDuracion(timestamp) {
@@ -101,7 +101,7 @@ let handler = async (m, { conn, text, command }) => {
         [sendAs]: { url: downloadUrl },
         mimetype: "video/mp4",
         fileName: `${meta?.title || "video"}.mp4`,
-        caption: null
+        caption: `\`${v.title}\``
       },
       { quoted: m }
     )
@@ -121,7 +121,7 @@ handler.group = true
 handler.register = true
 
 export default handler
-*/
+/*
 
 import yts from "yt-search"
 import fetch from "node-fetch"
@@ -295,4 +295,4 @@ handler.help = ['ytmp4 <texto o link>']
 handler.group = true
 handler.register = true
 
-export default handler
+export default handler*/
