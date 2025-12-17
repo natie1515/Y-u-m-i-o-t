@@ -34,7 +34,7 @@ let handler = async function (m, { conn, text, usedPrefix, command }) {
 
   const fkontak = {
     key: { participant: '0@s.whatsapp.net', remoteJid: 'status@broadcast', fromMe: false, id: '🧣' },
-    message: { locationMessage: { name: '🎄 Registro Kaneki', jpegThumbnail: thumbBuffer } },
+    message: { locationMessage: { name: '🎄 Registro Y͟u͟m͟ï̵̬͟͜𝐁o̸t̸', jpegThumbnail: thumbBuffer } },
     participant: '0@s.whatsapp.net'
   }
 
