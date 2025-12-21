@@ -45,7 +45,7 @@ global.catalogo = fs.readFileSync('./lib/catalogo.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.group = "https://chat.whatsapp.com/FvKyGFv5i1s8Dj2XAQ74WT?mode=hqrt1"
+global.group = "https://chat.whatsapp.com/IKY7BgP20J5BYRiRZzINQU"
 global.community = "https://chat.whatsapp.com/FvKyGFv5i1s8Dj2XAQ74WT?mode=hqrt1"
 global.channel = "https://whatsapp.com/channel/0029VbAc6cS002TEZ4r5261E"
 global.github = "https://github.com/shadox-xyz/KanekiBot-V3"
