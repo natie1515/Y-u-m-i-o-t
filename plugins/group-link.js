@@ -2,6 +2,9 @@ import fetch from 'node-fetch'
 import baileys from '@whiskeysockets/baileys'
 const { generateWAMessageFromContent, generateWAMessageContent, proto } = baileys
 
+// 🔒 CANAL FIJO (CAMBIA SOLO ESTE ID POR EL TUYO)
+const MI_CANAL_ID = '120363188537623366@newsletter'
+
 let handler = async (m, { conn }) => {
   try {
     await m.react('🕓')
@@ -51,7 +54,7 @@ let handler = async (m, { conn }) => {
                   name: 'cta_url',
                   buttonParamsJson: JSON.stringify({
                     display_text: "🩵 Canal Oficial",
-                    url: channel
+                    url: `https://whatsapp.com/channel/${MI_CANAL_ID}`
                   })
                 }
               ]
