@@ -2,9 +2,6 @@ import fetch from 'node-fetch'
 import baileys from '@whiskeysockets/baileys'
 const { generateWAMessageFromContent, generateWAMessageContent, proto } = baileys
 
-// 🔒 CANAL FIJO (CAMBIA SOLO ESTE ID POR EL TUYO)
-const MI_CANAL_ID = '120363188537623366@newsletter'
-
 let handler = async (m, { conn }) => {
   try {
     await m.react('🕓')
@@ -14,6 +11,8 @@ let handler = async (m, { conn }) => {
     const ppUrl = await conn.profilePictureUrl(group, 'image').catch(_ => 'https://files.catbox.moe/xr2m6u.jpg')
     const invite = 'https://chat.whatsapp.com/' + await conn.groupInviteCode(group)
     const owner = metadata.owner ? '@' + metadata.owner.split('@')[0] : 'No disponible'
+
+    const channel = 'https://whatsapp.com/channel/0029VaCDajZ9WtBvBZy76k2h'
 
     const info = `\`\`\`
 ================================
@@ -54,7 +53,7 @@ let handler = async (m, { conn }) => {
                   name: 'cta_url',
                   buttonParamsJson: JSON.stringify({
                     display_text: "🩵 Canal Oficial",
-                    url: `https://whatsapp.com/channel/${MI_CANAL_ID}`
+                    url: channel
                   })
                 }
               ]
