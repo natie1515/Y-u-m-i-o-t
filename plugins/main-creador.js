@@ -6,12 +6,12 @@ import fetch from 'node-fetch'
 const handler = async (m, { conn }) => {
 
   let developer = {
-    name: ' sһᥲძ᥆ᥕ.᥊ᥡz • ᥆𝖿𝖿іᥴіᥲᥣ',
+    name: ' 𓆩‌۫᷼ ִֶָღ݉͢𝓢𝓪𝓻𝓪𝓱𓆪‌ • ᥆𝖿𝖿іᥴіᥲᥣ',
     numCreador: suittag,
-    empresa: ' » ᴋᴀɴᴇᴋɪ ʙᴏᴛ ɪɴɪᴄ.',
+    empresa: ' » Yumi ʙᴏᴛ ɪɴɪᴄ.',
     about: '☏ 2024 - 2026 ⎈',
-    correo: 'shadowcore.xyz@gmail.com',
-    web: 'https://shadow-xyz.vercel.app/',
+    correo: 'yuminotify.supp@gmail.com',
+    web: '',
     direccion: 'Tokyo, Japón 🇯🇵'
   }
 
