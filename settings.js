@@ -11,7 +11,7 @@ global.botNumber = "" //Ejemplo: 573218138672
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.owner = ["51921563358", "51919199620"]
+global.owner = ["559296077349", "51919199620"]
 global.suittag = ["51921563358"] 
 global.prems = []
 
@@ -25,11 +25,11 @@ global.yuzukiJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.botname = " ۫  🌸੭  ׅ  𝐘𝐮𝐳𝐮𝐤𝐢𝐁𝐨𝐭 - 𝐀𝐈 ׁ ♡ ⸼"
-global.textbot = "₊˚ʏᴜsᴜᴋɪ, mᥲძᥱ ᥕі𝗍һ ᑲᥡ sһᥲძ᥆ᥕ.᥊ᥡz˙ꨂﾟ"
-global.dev = " ׅ   ⿆  𝃤𝃤𓂂 ɪ'ᴍ sʜᴀᴅᴏᴡ's xʏᴢ 彡★"
-global.author = "© mᥲძᥱ ᥕі𝗍һ ᑲᥡ shadow.xz"
-global.etiqueta = "✫ shadow.xyz ٩(◕‿◕｡)۶"
+global.botname = " ۫ 🌸੭ ׅ 𝐘𝐮𝐦𝐢𝐁𝐨𝐭 - 𝐀𝐈 ׁ ♡ ⸼"
+global.textbot = "₊˚ʏᴜᴍɪʙᴏᴛ, mᥲძᥱ ᥕі𝗍һ ᑲᥡ 𓆩‌۫᷼ ִֶָღ݉͢𝓢𝓪𝓻𝓪𝓱𓆪‌ ˙ꨂﾟ"
+global.dev = " ׅ₊˚mᥲძᥱ ᥕі𝗍һ ᑲᥡ 𓆩‌۫᷼ ִֶָღ݉͢𝓢𝓪𝓻𝓪𝓱𓆪‌ ˙ꨂﾟ"
+global.author = "© mᥲძᥱ ᥕі𝗍һ ᑲᥡ 𓆩‌۫᷼ ִֶָღ݉͢𝓢𝓪𝓻𝓪𝓱𓆪‌"
+global.etiqueta = "✫ 𓆩‌۫᷼ ִֶָღ݉͢𝓢𝓪𝓻𝓪𝓱𓆪‌ ٩(◕‿◕｡)۶"
 global.currency = "¥enes"
 global.banner = "https://raw.githubusercontent.com/AkiraDevX/uploads/main/uploads/1767704977299_946356.jpeg"
 global.icono = "https://raw.githubusercontent.com/AkiraDevX/uploads/main/uploads/1767705260761_580241.jpeg"
@@ -37,13 +37,13 @@ global.catalogo = fs.readFileSync('./lib/catalogo.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.group = "https://chat.whatsapp.com/FvKyGFv5i1s8Dj2XAQ74WT"
-global.community = "https://chat.whatsapp.com/FvKyGFv5i1s8Dj2XAQ74WT"
-global.channel = "https://whatsapp.com/channel/0029VbC34Nt42DchIWA0q11f"
-global.github = "https://github.com/shadox-xyz"
-global.gmail = "shadowcore.xyz@gmail.com"
+global.group = "https://chat.whatsapp.com/IKY7BgP20J5BYRiRZzINQU"
+global.community = "https://chat.whatsapp.com/FFl5CSUCbBqLVdiRaFVmHp"
+global.channel = "https://whatsapp.com/channel/0029VaCDajZ9WtBvBZy76k2h"
+global.github = "https://github.com"
+global.gmail = "yuminotify.supp@gmail.com"
 global.ch = {
-ch1: "120363422142340004@newsletter"
+ch1: "120363188537623366@newsletter"
 }
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
