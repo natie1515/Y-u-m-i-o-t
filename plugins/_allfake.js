@@ -7,8 +7,8 @@ const { generateWAMessageFromContent, prepareWAMessageMedia, proto } = pkg
 
 var handler = m => m
 handler.all = async function (m) { 
-global.canalIdM = ["120363422142340004@newsletter"]
-global.canalNombreM = ["..૭ 𝐘𝐮𝐳𝐮𝐤𝐢 - 𝐀𝐈 ৴৴ 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 ⌕"]
+global.canalIdM = ["120363188537623366@newsletter"]
+global.canalNombreM = ["..૭ 𝐘𝐮𝐦𝐢𝐁𝐨𝐭 - 𝐀𝐈 ৴৴ 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ⌕"]
 global.channelRD = await getRandomChannel()
 
 global.d = new Date(new Date + 3600000)
@@ -19,11 +19,11 @@ global.mes = d.toLocaleDateString('es', {month: 'long'})
 global.año = d.toLocaleDateString('es', {year: 'numeric'})
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true})
 
-var canal = 'https://whatsapp.com/channel/0029VbC34Nt42DchIWA0q11f'  
-var comunidad = 'https://chat.whatsapp.com/FvKyGFv5i1s8Dj2XAQ74WT'
-var git = 'https://github.com/shadox-xyz'
-var github = 'https://github.com/shadox-xyz/YuzukiBot-MD' 
-var correo = 'shadowcore.xyz@gmail.com'
+var canal = 'https://whatsapp.com/channel/0029VaCDajZ9WtBvBZy76k2h'  
+var comunidad = 'https://chat.whatsapp.com/FFl5CSUCbBqLVdiRaFVmHp'
+var git = 'https://github.com'
+var github = 'https://github.com' 
+var correo = 'yuminotify.supp@gmail.com'
 global.redes = [canal, comunidad, git, github, correo].getRandom()
 
 global.nombre = m.pushName || 'Anónimo'
