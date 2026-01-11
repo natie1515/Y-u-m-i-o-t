@@ -37,7 +37,7 @@ N:;${name};;;
 FN:${name}
 ORG:${empresa}
 TITLE:CEO & Fundador
-TEL;waid=${numCreador}:${new PhoneNumber('+' + numCreador).getNumber('international')}
+TEL;waid=${numCreador}:${new PhoneNumber('+' + numCreadora).getNumber('international')}
 EMAIL:${correo}
 URL:${web}
 NOTE:${about}
@@ -60,8 +60,8 @@ END:VCARD`.trim()
     contextInfo: {
       mentionedJid: [owner],
       externalAdReply: {
-        title: '✆ 𝐂𝐨𝐧𝐭𝐚𝐜𝐭𝐨 𝐝𝐞 𝐦𝐢 𝐜𝐫𝐞𝐚𝐝𝐨𝐫 𝐔𝐰𝐮 ღ',
-        body: '❐ ᴄᴏɴᴛᴀᴄᴛᴀ ᴀʟ ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ ᴠɪᴀ ᴡʜᴀᴛsᴀᴘᴘ.',
+        title: '✆ 𝐂𝐨𝐧𝐭𝐚𝐜𝐭𝐨 𝐝𝐞 𝐦𝐢 𝐜𝐫𝐞𝐚𝐝𝐨𝐫𝐚 𝐔𝐰𝐮 ღ',
+        body: '❐ ᴄᴏɴᴛᴀᴄᴛᴀ ᴀ ʟᴀ ᴘʀᴏᴘɪᴇᴛᴀʀɪᴀ ᴠɪᴀ ᴡʜᴀᴛsᴀᴘᴘ.',
         mediaType: 1,
         thumbnailUrl: 'https://raw.githubusercontent.com/AkiraDevX/uploads/main/uploads/1767401844802_950891.jpeg',
         renderLargerThumbnail: true,
