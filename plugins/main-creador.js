@@ -37,7 +37,7 @@ N:;${name};;;
 FN:${name}
 ORG:${empresa}
 TITLE:CEO & Fundador
-TEL;waid=${numCreador}:${new PhoneNumber('+' + numCreadora).getNumber('international')}
+TEL;waid=${numCreador}:${new PhoneNumber('+' + numCreador).getNumber('international')}
 EMAIL:${correo}
 URL:${web}
 NOTE:${about}
